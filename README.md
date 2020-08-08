@@ -50,5 +50,5 @@ Know me more:
 
 [linkedin]: https://linkedin.com/in/bhavleen-singh-64801b114/
 [gmail]: mailto:singhbhavleen3@gmail.com
-[instagram]: https://instagram.com/codeSTACKr
+[instagram]: https://www.instagram.com/cleverrsingh/
 [facebook]: https://www.facebook.com/bhavleensm/
