@@ -1,5 +1,15 @@
 <h1 align="center">Hi, I'm Bhavleen Singh Manaktala 👳 </h1>
 <h4 align="center">Welcome to my GitHub Repository.</h4>
+<h4 align="center">Advanced Javascript is My Game.</h4>
+<br/>
+
+### Connect with me:
+<!-- [<img align="left" alt="website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
+[<img align="center" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="center" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg" />][gmail]
+[<img align="center" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="center" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />][facebook]
+
 
 Here I post some stuff as public but believe me I have a lot stuff on Private 😉
 
@@ -12,14 +22,6 @@ Know me more:
 - 🧑‍💻 🧑‍💻 Strongly believes in Teamwork
 - ⚡ Fun fact: ... I learned DSA many times and try to practice it daily but always fails to execute it in front of seniors.
 
-### Connect with me:
-
-<!-- [<img align="left" alt="website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
-
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg" />][gmail]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />][facebook]
 
 <br/>
 
@@ -43,10 +45,10 @@ Know me more:
 
 ## Stats
 
-![Christine's github stats](https://github-readme-stats.vercel.app/api?username=bhavleen-singh-au7&show_icons=true&theme=radical)
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=pijush-konar-au7&show_icons=true alt=pijush-konar-au7 /> </p>
+<img align="center" alt="Bhavleen's github stats" src="https://github-readme-stats.vercel.app/api?username=bhavleen-singh-au7&show_icons=true&theme=radical" />
 
 <!-- [website]: https://website.com -->
-
 [linkedin]: https://linkedin.com/in/bhavleen-singh-64801b114/
 [gmail]: mailto:singhbhavleen3@gmail.com
 [instagram]: https://www.instagram.com/cleverrsingh/
