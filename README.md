@@ -1,6 +1,5 @@
-## Hi there 👋
-
-Welcome to my GitHub Repository.
+<h1 align="center">Hi, I'm Bhavleen Singh Manaktala 👳 </h1>
+<h4 align="center">Welcome to my GitHub Repository.</h4>
 
 Here I post some stuff as public but believe me I have a lot stuff on Private 😉
 
