@@ -3,14 +3,6 @@
 <h4 align="center">Advanced Javascript is My Game.</h4>
 <br/>
 
-### Connect with me:
-<!-- [<img align="left" alt="website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
-[<img align="center" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="center" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg" />][gmail]
-[<img align="center" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="center" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />][facebook]
-
-
 Here I post some stuff as public but believe me I have a lot stuff on Private 😉
 
 I am open for opportunities as a **MERN** Stack Developer
@@ -21,9 +13,16 @@ Know me more:
 - 🌱 I’m currently learning ... Advanced JavaScript Concepts
 - 🧑‍💻 🧑‍💻 Strongly believes in Teamwork
 - ⚡ Fun fact: ... I learned DSA many times and try to practice it daily but always fails to execute it in front of seniors.
-
-
 <br/>
+
+<h2 align="center">Connect With Me</h2>
+<!-- [<img align="left" alt="website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
+<h3 align="center">
+  [<img align="center" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+  [<img align="center" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg" />][gmail]
+  [<img align="center" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+  [<img align="center" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />][facebook]
+</h3>
 
 ## Language And Tools
 
@@ -43,7 +42,7 @@ Know me more:
 
 <br/>
 
-<h3 align="center">Stats</h3>
+<h4 align="center">Stats</h4>
 <p align="center"> <img alt="Bhavleen's github stats" src="https://github-readme-stats.vercel.app/api?username=bhavleen-singh-au7&show_icons=true&theme=radical" /> </p>
 
 <!-- [website]: https://website.com -->
