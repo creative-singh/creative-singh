@@ -43,10 +43,8 @@ Know me more:
 
 <br/>
 
-## Stats
-
-
-<img align="center" alt="Bhavleen's github stats" src="https://github-readme-stats.vercel.app/api?username=bhavleen-singh-au7&show_icons=true&theme=radical" />
+<h3 align="center">Stats</h3>
+<p align="center"> <img alt="Bhavleen's github stats" src="https://github-readme-stats.vercel.app/api?username=bhavleen-singh-au7&show_icons=true&theme=radical" /> </p>
 
 <!-- [website]: https://website.com -->
 [linkedin]: https://linkedin.com/in/bhavleen-singh-64801b114/
