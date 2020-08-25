@@ -52,7 +52,7 @@ Know me more:
 
 <br/>
 
-<h4 align="center">Stats</h4>
+<h3 align="center">Stats</h3>
 <p align="center"> <img alt="Bhavleen's github stats" src="https://github-readme-stats.vercel.app/api?username=bhavleen-singh-au7&show_icons=true&theme=radical" /> </p>
 
 <!-- [website]: https://website.com 
