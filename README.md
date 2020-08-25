@@ -45,7 +45,7 @@ Know me more:
 
 ## Stats
 
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=pijush-konar-au7&show_icons=true alt=pijush-konar-au7 /> </p>
+
 <img align="center" alt="Bhavleen's github stats" src="https://github-readme-stats.vercel.app/api?username=bhavleen-singh-au7&show_icons=true&theme=radical" />
 
 <!-- [website]: https://website.com -->
