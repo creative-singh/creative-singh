@@ -31,6 +31,9 @@ Know me more:
   <a href="https://www.facebook.com/bhavleensm/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" alt="facebook_profile_link" height="30" width="30" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
+<h2 align="center">Stats</h2>
+<p align="center"> <img alt="Bhavleen's github stats" src="https://github-readme-stats.vercel.app/api?username=bhavleen-singh-au7&show_icons=true&theme=radical" /> </p>
+
 ## Language And Tools
 <p>
   <img align="left" alt="JavaScript" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -51,9 +54,6 @@ Know me more:
   <img align="left" alt="Terminal" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
   <img align="left" alt="Terminal" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png" />
 </p>
-
-<h2 align="center">Stats</h2>
-<p align="center"> <img alt="Bhavleen's github stats" src="https://github-readme-stats.vercel.app/api?username=bhavleen-singh-au7&show_icons=true&theme=radical" /> </p>
 
 <!-- [website]: https://website.com 
 [linkedin]: 
