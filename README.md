@@ -1,4 +1,5 @@
 <h1 align="center">Hi, I'm Bhavleen Singh Manaktala 👳 </h1>
+<h2 align="center">A Student, Undergraduate and MERN Stack Enthusiast </h2>
 <h4 align="center">Welcome to my GitHub Repository.</h4>
 <h4 align="center">Advanced Javascript is my Game.</h4>
 <br/>
@@ -10,9 +11,10 @@ I am open for opportunities as a **MERN** Stack Developer
 
 Know me more:
 
-- 🔭 I’m currently working on ... Caring Aunt
-- 🌱 I’m currently learning ... Advanced JavaScript Concepts
+- 🔭 I’m currently working on: Caring Aunt & Capstone Project
+- 🌱 I’m currently learning: Advanced JavaScript Concepts
 - 🧑‍💻 🧑‍💻 Strongly believes in Teamwork
+- 🔗 2020 Goals: Contribute more to Open-Source projects
 - ⚡ Fun fact: ... I learned DSA many times and try to practice it daily but always fails to execute it in front of seniors.
 <br/>
 
@@ -53,6 +55,8 @@ Know me more:
   <img align="left" alt="Git" width=" 36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
   <img align="left" alt="Terminal" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
   <img align="left" alt="Terminal" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png" />
+  <img align="left" alt="Terminal" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+  
 </p>
 
 <!-- [website]: https://website.com 
