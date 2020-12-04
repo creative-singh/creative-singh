@@ -9,14 +9,14 @@ Here I post some stuff as public but believe me I have a lot stuff on Private �
 
 I am open for opportunities as a **MERN** Stack Developer
 
-Know me more:
+Know me more
 
 - 🔭 I’m currently working on: Caring Aunt & Capstone Project
 - 🌱 I’m currently learning: Advanced JavaScript Concepts
 - 🧑‍💻 🧑‍💻 Strongly believes in Teamwork
 - 🔗 2020 Goals: Contribute more to Open-Source projects
 - ⚡ Fun fact: ... I learned DSA many times and try to practice it daily but always fails to execute it in front of seniors.
-<br/>
+  <br/>
 
 <h2 align="center">Connect With Me</h2>
 <!-- [<img align="left" alt="website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] 
@@ -37,6 +37,7 @@ Know me more:
 <p align="center"> <img alt="Bhavleen's github stats" src="https://github-readme-stats.vercel.app/api?username=bhavleen-singh-au7&show_icons=true&theme=radical" /> </p>
 
 ## Language And Tools
+
 <p>
   <img align="left" alt="JavaScript" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
   <img align="left" alt="React" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
@@ -59,8 +60,8 @@ Know me more:
   
 </p>
 
-<!-- [website]: https://website.com 
-[linkedin]: 
-[gmail]: 
-[instagram]: 
+<!-- [website]: https://website.com
+[linkedin]:
+[gmail]:
+[instagram]:
 [facebook]: -->
