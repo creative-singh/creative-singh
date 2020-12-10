@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Bhavleen Singh Manaktala 👳 </h1>
-<h2 align="center">A Student, Undergraduate and MERN Stack Developer </h2>
+<h2 align="center">A Student, Undergraduate and Full Stack Developer </h2>
 <h4 align="center">Welcome to my GitHub Repository.</h4>
 <h4 align="center">Advanced Javascript is my Game.</h4>
 [Say Hi](https://creativesingh.tech)
