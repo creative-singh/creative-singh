@@ -2,7 +2,7 @@
 <h2 align="center">A Student, Undergraduate and MERN Stack Developer </h2>
 <h4 align="center">Welcome to my GitHub Repository.</h4>
 <h4 align="center">Advanced Javascript is my Game.</h4>
-[Say Hi.](https://creativesingh.tech)
+[Say Hi](https://creativesingh.tech)
 <br/>
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=bhavleen-singh-au7&layout=compact&hide=html&theme=radical alt=javascript_spoof /> </p>
 
