@@ -2,7 +2,7 @@
 <h2 align="center">A Student, Undergraduate and MERN Stack Developer </h2>
 <h4 align="center">Welcome to my GitHub Repository.</h4>
 <h4 align="center">Advanced Javascript is my Game.</h4>
-<h4 align="center">[Say Hi to Me 👋.]: https://creativesingh.tech</h4>
+<h4 align="center">[Say Hi to Me 👋.] (https://creativesingh.tech)</h4>
 <br/>
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=bhavleen-singh-au7&layout=compact&hide=html&theme=radical alt=javascript_spoof /> </p>
 
@@ -76,9 +76,3 @@ Know me more
   <img align="left" alt="Terminal" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"  style="margin:10px"/>
   
 </p>
-
-<!-- [website]: https://website.com
-[linkedin]:
-[gmail]:
-[instagram]:
-[facebook]: -->
