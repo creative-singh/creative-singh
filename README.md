@@ -1,10 +1,11 @@
 <h1 align="center">Hi, I'm Bhavleen Singh Manaktala 👳 </h1>
+<h2 align="center">A.K.A Creative Singh </h1>
 <h2 align="center">A Student, Undergraduate and Full Stack Developer </h2>
 <h4 align="center">Welcome to my GitHub Repository.</h4>
 <h4 align="center">Advanced Javascript is my Game.</h4>
 
 <br/>
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=bhavleen-singh-au7&layout=compact&hide=html&theme=radical alt=javascript_spoof /> </p>
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=creative-singh&layout=compact&hide=html&theme=radical alt=javascript_spoof /> </p>
 
 Here I post some stuff as public but believe me I have a lot stuff on Private 😉
 
@@ -36,7 +37,7 @@ Know me more
 </p>
 
 <h2 align="center">Stats</h2>
-<p align="center"> <img alt="Bhavleen's github stats" src="https://github-readme-stats.vercel.app/api?username=bhavleen-singh-au7&show_icons=true&theme=radical" /> </p>
+<p align="center"> <img alt="Bhavleen's github stats" src="https://github-readme-stats.vercel.app/api?username=creative-singh&show_icons=true&theme=radical" /> </p>
 
 ## Language And Tools
 
