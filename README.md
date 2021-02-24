@@ -14,7 +14,7 @@ I am open for opportunities as a **MERN** Stack Developer
 Know me more
 
 - 🔭 I’m currently working on ECommerce Website
-- 🌱 I’m currently learning: Different type of Payment Gateways
+- 🌱 I’m currently learning: Different types of Payment Gateways
 - 🧑‍💻 🧑‍💻 Strongly believes in Teamwork
 - 🔗 2021 Goals: Learn DSA advanced concepts and contribute to openSource
 - ⚡ Fun fact: ... I learned DSA many times and try to practice it daily but always fails to execute it in front of seniors.
