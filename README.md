@@ -8,8 +8,6 @@
 
 Here I post some stuff as public but believe me I have a lot stuff on Private 😉
 
-I am open for opportunities as a **MERN** Stack Developer
-
 Know me more
 
 - 🔭 I’m currently working on ECommerce Website
