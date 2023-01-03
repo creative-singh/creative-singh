@@ -13,7 +13,7 @@ Know me more
 - 🔭 I’m currently working on ECommerce Website
 - 🌱 I’m currently learning: Typescript and NestJS Framework
 - 🧑‍💻 🧑‍💻 Strongly believes in Teamwork
-- 🔗 2022 Goals: Learn DSA advanced concepts and contribute to openSource
+- 🔗 2023 Goals: Learn DSA advanced concepts and contribute to open source.
 - ⚡ Fun fact: ... I learned DSA many times and try to practice it daily but always fails to execute it in front of seniors.
   <br/>
 
