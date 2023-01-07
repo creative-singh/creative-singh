@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Bhavleen Singh Manaktala 👳 </h1>
 <h2 align="center">A.K.A Creative Singh </h1>
-<h3 align="center">A Full Stack Developer using NextJs and NestJs as weapon.</h3>
+<h3 align="center">A Full Stack Developer using NextJs and NestJs as weapons.</h3>
 <!-- <h4 align="center">Welcome to my GitHub Repository.</h4> -->
 
 <br/>
