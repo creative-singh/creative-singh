@@ -10,7 +10,7 @@
 
 Know me more
 
-- 🔭 I’m currently working on ECommerce Website
+- 🔭 I’m currently working on an E-Commerce Website.
 - 🌱 I’m currently deep diving into NestJS Framework with Postgres DB.
 - 🧑‍💻 🧑‍💻 Strongly believes in Teamwork
 - 🔗 2023 Goals: Learn DSA advanced concepts and contribute to open source.
