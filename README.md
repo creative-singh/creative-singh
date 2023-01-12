@@ -14,7 +14,7 @@ Know me more
 - 🌱 I'm now delving deeply into the PostgresDB and NestJS Framework.
 - 🧑‍💻 🧑‍💻 Strongly believes in Teamwork.
 - 🔗 2023 Goals: I'm learning advanced DSA concepts and contributing on open source projects.
-- ⚡ Fun fact: ... I learned DSA many times and try to practice it daily but always fails to execute it in front of seniors.
+- ⚡ Fun fact: ...I've learned DSA several times and attempt to practise it on a regular basis, but I always fail to perform it in front of seniors.
   <br/>
 
 <h2 align="center">Connect With Me</h2>
