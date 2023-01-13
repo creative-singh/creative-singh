@@ -20,8 +20,8 @@ Know me more
 <h2 align="center">Connect With Me</h2>
 
 <p align="center">
-  <a href="https://creative-singh.netlify.app/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/chocolatey.svg" alt="portfolio" height="30" width="30" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/bhavleen-singh-64801b114/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linked_in_profile" height="30" width="30" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://creativesingh.tech/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/chocolatey.svg" alt="portfolio" height="30" width="30" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/creative-singh/" target="blank"><img src="./linkedin.svg" alt="linkedin profile link" height="30" width="30" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:singhbhavleen3@gmail.com" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg" alt="g_mail_connect" height="30" width="30" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/creative.singh_/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="instagram_link" height="30" width="30" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/bhavleensm/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" alt="facebook_profile_link" height="30" width="30" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
