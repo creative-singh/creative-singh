@@ -20,7 +20,7 @@ Know me more
 <h2 align="center">Connect With Me</h2>
 
 <p align="center">
-  <a href="https://creativesingh.tech/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/chocolatey.svg" alt="portfolio" height="30" width="30" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://creativesingh.tech/" target="blank"><img src="https://img.icons8.com/ios/50/ffa500/circled-c.png" alt="portfolio" height="30" width="30" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/creative-singh/" target="blank"><img src="./linkedin.svg" alt="linkedin profile link" height="30" width="30" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:singhbhavleen3@gmail.com" target="blank"><img src="./gmail.svg" alt="gmail profile link" height="30" width="30" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/creative.singh_/" target="blank"><img src="./instagram.svg" alt="instagram profile link" height="30" width="30" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
