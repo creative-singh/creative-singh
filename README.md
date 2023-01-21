@@ -25,6 +25,7 @@ Know me more
   <a href="mailto:singhbhavleen3@gmail.com" target="blank"><img src="./gmail.svg" alt="gmail profile link" height="30" width="30" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/creative.singh_/" target="blank"><img src="./instagram.svg" alt="instagram profile link" height="30" width="30" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/bhavleensm/" target="blank"><img src="./facebook.svg" alt="facebook profile link" height="30" width="30" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/creative-singh" target="blank"><img src="./github.svg" alt="github profile link" height="30" width="40" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
 </p>      
   
 
