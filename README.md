@@ -13,8 +13,11 @@
 - 🔭 I'm currently working on an E-Commerce Website.
 - 🌱 I'm now delving deeply into the PostgresDB and NestJS Framework.
 - 🧑‍💻 🧑‍💻 Strongly believes in Teamwork.
-- 🔗 2023 Goals: I'm learning advanced DSA concepts and contributing on open source projects.
-- ⚡ Fun fact: ...I've learned DSA several times and attempt to practise it on a regular basis, but I always fail to perform it in front of seniors.
+- 🔗 2023 Goals: 
+    - Will be Learning Advanced DSA concepts
+    - Start Contributing to open source projects.
+    - Will be Solving at least 150 LeetCode Problems
+- ⚡ Fun fact: ...I've learned DSA several times and attempt to practice it on a regular basis, but I always fail to perform it in front of seniors.
   <br/>
 
 <h2 align="center">Connect With Me</h2>
@@ -26,6 +29,7 @@
   <a href="https://www.instagram.com/creative.singh_/" target="blank"><img src="./instagram.svg" alt="instagram profile link" height="30" width="30" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/bhavleensm/" target="blank"><img src="./facebook.svg" alt="facebook profile link" height="30" width="30" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/creative-singh" target="blank"><img src="./github.svg" alt="github profile link" height="30" width="30" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/bhavleen_singh_fsd/" target="blank"><img src="./leetcode.png" alt="leetcode profile link" height="30" width="30" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
 </p>      
   
 
@@ -48,11 +52,11 @@
 
   <img align="left" alt="MongoDB" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" style="margin:10px" />
 
+  <img align="left" alt="Postgresql" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"  style="margin:10px"/>
+
   <img align="left" alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="margin:10px" />
 
   <img align="left" alt="SQL" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" style="margin:10px" />
-
-  <img align="left" alt="Postgresql" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"  style="margin:10px"/>
 
   <img align="left" alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"  style="margin:10px"/>
 
@@ -68,8 +72,8 @@
 
   <img align="left" alt="Terminal" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" style="margin:10px"/>
 
-  <img align="left" alt="Terminal" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png" style="margin:10px" />
+  <img align="left" alt="Microsoft .Net" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png" style="margin:10px" />
 
-  <img align="left" alt="Terminal" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"  style="margin:10px"/>
+  <img align="left" alt="Python" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"  style="margin:10px"/>
   
 </p>
