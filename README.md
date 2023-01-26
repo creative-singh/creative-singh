@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Bhavleen Singh Manaktala 👳 </h1>
+<h1 align="center">Hi, I'm Bhavleen Singh Manaktala <img src="./logo.svg" alt="cs logo" height="50"> </h1>
 <h2 align="center">A.K.A Creative Singh </h1>
 <h3 align="center">A Full Stack Developer using NextJs and NestJs as weapons.</h3>
 <!-- <h4 align="center">Welcome to my GitHub Repository.</h4> -->
@@ -8,7 +8,7 @@
 
 <!-- Here I post some stuff as public but believe me I have a lot stuff on Private 😉 -->
 
-Know me more
+<u><b>Know me more</b></u>
 
 - 🔭 I'm currently working on an E-Commerce Website.
 - 🌱 I'm now delving deeply into the PostgresDB and NestJS Framework.
