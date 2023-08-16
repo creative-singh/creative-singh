@@ -11,7 +11,7 @@ Here I post some stuff as public but believe me I have a lot stuff on Private �
 Know me more
 
 - 🔭 I’m currently working on ECommerce Website
-- 🌱 I’m currently deep diving: NestJS Framework with Postgres DB.
+- 🌱 I’m currently deep diving into NestJS Framework with Postgres DB.
 - 🧑‍💻 🧑‍💻 Strongly believes in Teamwork
 - 🔗 2023 Goals: Learn DSA advanced concepts and contribute to open source.
 - ⚡ Fun fact: ... I learned DSA many times and try to practice it daily but always fails to execute it in front of seniors.
