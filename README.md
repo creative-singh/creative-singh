@@ -31,7 +31,11 @@ Know me more
   <a href="mailto:singhbhavleen3@gmail.com" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg" alt="g_mail_connect" height="30" width="30" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/creative.singh_/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="instagram_link" height="30" width="30" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/bhavleensm/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" alt="facebook_profile_link" height="30" width="30" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+</p>      
+  
+
+<h2 align="center">Streak & Contribution</h2>
+<p align="center"> <img alt="Bhavleen's github streaks and contribution" src="https://github-readme-streak-stats.herokuapp.com/?user=creative-singh&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl" /> </p>
 
 <h2 align="center">Stats</h2>
 <p align="center"> <img alt="Bhavleen's github stats" src="https://github-readme-stats.vercel.app/api?username=creative-singh&show_icons=true&theme=radical" /> </p>
