@@ -3,11 +3,14 @@
 <h3 align="center">A Full Stack Developer using NextJs and NestJs as weapons.</h3>
 <!-- <h4 align="center">Welcome to my GitHub Repository.</h4> -->
 
+***
+
 <br/>
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=creative-singh&layout=compact&hide=html&theme=radical alt=javascript_spoof /> </p>
 
 <!-- Here I post some stuff as public but believe me I have a lot stuff on Private 😉 -->
 
+***
 <u><b>Know me more</b></u>
 
 - 🔭 I'm currently working on an E-Commerce Website.
@@ -19,6 +22,7 @@
     - Will be Solving at least 150 LeetCode Problems
 - ⚡ Fun fact: ...I've learned DSA several times and attempt to practice it on a regular basis, but I always fail to perform it in front of seniors.
   <br/>
+***
 
 <h2 align="center">Connect With Me</h2>
 
@@ -31,10 +35,13 @@
   <a href="https://github.com/creative-singh" target="blank"><img src="./github.svg" alt="github profile link" height="30" width="30" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/bhavleen_singh_fsd/" target="blank"><img src="./leetcode.png" alt="leetcode profile link" height="30" width="30" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
 </p>      
-  
+
+***  
 
 <h2 align="center">Streak & Contribution</h2>
 <p align="center"> <img alt="Bhavleen's github streaks and contribution" src="https://github-readme-streak-stats.herokuapp.com/?user=creative-singh&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl" /> </p>
+
+***
 
 <h2 align="center">Statistics</h2>
 <p align="center"> <img alt="Bhavleen's github stats" src="https://github-readme-stats.vercel.app/api?username=creative-singh&show_icons=true&theme=radical" /> </p>
