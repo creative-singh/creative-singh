@@ -18,9 +18,9 @@
 - 🧑‍💻 🧑‍💻 Strongly believes in Teamwork.
 - 🔗 2023 Goals: 
     - Will be Learning Advanced DSA concepts
-    - Start Contributing to open source projects.
+    - Start Contributing to open-source projects.
     - Will be Solving at least 150 LeetCode Problems
-- ⚡ Fun fact: ...I've learned DSA several times and attempt to practice it on a regular basis, but I always fail to perform it in front of seniors.
+- ⚡ Fun fact: I'm bilingual in programming languages, I speak both C# and JavaScript, and my code understands me in both dialects!
   <br/>
 ***
 
