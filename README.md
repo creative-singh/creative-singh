@@ -19,7 +19,7 @@
 - 🔗 2023 Goals: 
     - Will be Learning Advanced DSA concepts
     - Start Contributing to open-source projects.
-    - Will be Solving at least 150 LeetCode Problems. (101 Solved by 20th Nov)
+    - Will be Solving at least 150 LeetCode Problems. (100/150 Solved by 19th Nov)
 - ⚡ Fun fact: I'm bilingual in programming languages, I speak both C# and JavaScript, and my code understands me in both dialects!
   <br/>
 ***
