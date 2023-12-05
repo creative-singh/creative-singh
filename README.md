@@ -8,7 +8,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=creative-singh&layout=compact&hide=html&theme=radical" alt=javascript_spoof /> 
 </p>
 
-<!-- Here I post some stuff as public but believe me I have a lot stuff on Private 😉 -->
+<!-- Here I post some stuff as public but believe me I have a lot of stuff on Private 😉 -->
 
 ***
 <u><b>Know me more</b></u>
@@ -27,7 +27,7 @@
 <h3 align="center">Connect With Me</h3>
 
 <p align="center">
-  <a href="creative-singh.netlify.app/" target="blank"><img src="https://img.icons8.com/ios/50/ffa500/circled-c.png" alt="portfolio" height="30" width="30" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://creative-singh.netlify.app/" target="blank"><img src="https://img.icons8.com/ios/50/ffa500/circled-c.png" alt="portfolio" height="30" width="30" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/creative-singh/" target="blank"><img src="./linkedin.svg" alt="linkedin profile link" height="30" width="30" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:singhbhavleen3@gmail.com" target="blank"><img src="./gmail.svg" alt="gmail profile link" height="30" width="30" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/creative.singh_/" target="blank"><img src="./instagram.svg" alt="instagram profile link" height="30" width="30" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
