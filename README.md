@@ -16,7 +16,7 @@
 
 ---
 
-⭐️ <u><b>Know me more</b></u> ⭐️
+<p>⭐️ <u><b>Know me more</b></u> ⭐️</p>
 
 - 🔭 I'm currently working on an E-Commerce Website.
 - 🌱 I'm now delving deep into the PostgresDB and NestJS Framework and getting my hands dirty on Advanced Data Structures.
