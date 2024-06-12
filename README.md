@@ -1,7 +1,11 @@
 <h1 align="center">Hi, I'm Bhavleen Singh Manaktala <img src="./logo.svg" alt="cs logo" height="50"> </h1>
 <h3 align="center">🌟✨  A.K.A Creative Singh ✨🌟 </h3>
+
 <h3 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24"> I'm a Full Stack Developer using NextJs and NestJs as weapons.</h3>
-<!-- <h4 align="center">Welcome to my GitHub Repository.</h4> -->
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&duration=2000&pause=1000&background=151515&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Javascript+Developer;ReactJs+Developer;NodeJs+Developer" alt="React Typed Effect" />
+</div>
 
 <br/>
 <p align="center"> 
@@ -16,7 +20,7 @@
 
 ---
 
-⭐️ <u><b>Know me more</b></u> ⭐️
+<p>⭐️ <u><b>Know me more</b></u> ⭐️</p>
 
 - 🔭 I'm currently working on an E-Commerce Website.
 - 🌱 I'm now delving deep into the PostgresDB and NestJS Framework and getting my hands dirty on Advanced Data Structures.
