@@ -22,11 +22,11 @@
 
 <p>⭐️ <u><b>Know me more</b></u> ⭐️</p>
 
-- 🔭 I'm currently working on an E-Commerce Website.
-- 🌱 I'm now delving deep into the PostgresDB and NestJS Framework and getting my hands dirty on Advanced Data Structures.
+- 🔭 I'm currently learning Cloud Development.
+- 🌱 I'm now delving deep into the AWS Cloud Operations.
 - 🧑‍💻 🧑‍💻 Strongly believes in Teamwork.
-- 🔗 2024 Goals:
-  - Will be Learning Advanced DSA concepts
+- 🔗 2025 Goals:
+  - Master AWS Cloud.
   - Start Contributing to open-source projects.
   - Will be Solving at least 150 more LeetCode Problems.
 - ⚡ Fun fact: I'm bilingual in programming languages, I speak both C# and JavaScript, and my code understands me in both dialects!
