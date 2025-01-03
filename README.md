@@ -28,7 +28,7 @@
 - 🔗 2025 Goals:
   - Master AWS Cloud.
   - Start Contributing to open-source projects.
-  - Will be Solving at least 150 more LeetCode Problems.
+  - Solve at least 150 new LeetCode Problems.
 - ⚡ Fun fact: I'm bilingual in programming languages, I speak both C# and JavaScript, and my code understands me in both dialects!
   <br/>
 
