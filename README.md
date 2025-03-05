@@ -22,11 +22,12 @@
 
 <p>⭐️ <u><b>Know me more</b></u> ⭐️</p>
 
-- 🔭 I'm currently learning Cloud Development.
+- 🔭 I'm currently learning Cloud Development & System Design.
 - 🌱 I'm now delving deep into the AWS Cloud Operations.
 - 🧑‍💻 🧑‍💻 Strongly believes in Teamwork.
 - 🔗 2025 Goals:
   - Master AWS Cloud.
+  - Master System Design.
   - Start Contributing to open-source projects.
   - Solve at least 150 new LeetCode Problems.
 - ⚡ Fun fact: I'm bilingual in programming languages, I speak both C# and JavaScript, and my code understands me in both dialects!
