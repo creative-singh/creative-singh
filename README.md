@@ -4,7 +4,7 @@
 <h3 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24"> I'm a Full Stack Developer using NextJs and NestJs as weapons.</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&duration=2000&pause=1000&background=151515&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Javascript+Developer;ReactJs+Developer;NodeJs+Developer" alt="React Typed Effect" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&duration=2000&pause=1000&background=151515&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Javascript+Developer;ReactJs+Developer;NodeJs+Developer;Critical+Problem+Solver;" alt="React Typed Effect" />
 </div>
 
 <br/>
@@ -15,8 +15,6 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=SkyCaptainess&style=flat-square&color=blue" alt="Profile Views" width="150" />
 </div>
-
-<!-- Here I post some stuff as public but believe me I have a lot of stuff on Private 😉 -->
 
 ---
 
@@ -29,7 +27,7 @@
   - Master AWS Cloud.
   - Master System Design.
   - Start Contributing to open-source projects.
-  - Solve at least 150 new LeetCode Problems.
+  - Solve all problems from Neetcode 150.
 - ⚡ Fun fact: I'm bilingual in programming languages, I speak both C# and JavaScript, and my code understands me in both dialects!
   <br/>
 
