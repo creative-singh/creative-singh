@@ -97,11 +97,6 @@
 
 <img align="left" alt="Terminal" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" style="margin:10px; padding: 10px;" />
 
-
-
-
-<img src="https://imgur.com/rilHVxA.png"/> 
-
 <img align="left" alt="Microsoft .Net" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png" style="margin:10px; padding: 10px;" />
 
 <img align="left" alt="Python" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" style="margin:10px; padding: 10px;" />
@@ -110,3 +105,13 @@
 
 <img align="left" alt="Docker" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/docker/docker-plain-wordmark.svg" style="margin:10px; padding: 10px;" />
 </p>
+
+
+
+
+
+
+
+
+
+<img src="https://imgur.com/rilHVxA.png"/> 
