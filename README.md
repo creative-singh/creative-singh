@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Bhavleen Singh Manaktala <img src="./logo.svg" alt="cs logo" height="50"> </h1>
+<h1 style="display: flex;align-items: center;justify-content: center;">Hi, I'm Bhavleen Singh Manaktala <img src="./logo.svg" alt="cs logo" height="50px" style="height: revert-layer;padding-left: 10px;"> </h1>
 <h3 align="center">🌟✨  A.K.A Creative Singh ✨🌟 </h3>
 
 <h3 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24"> I'm a Full Stack Developer using NextJs and NestJs as weapons.</h3>
