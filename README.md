@@ -9,7 +9,7 @@ Image Removed
 <h3 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24"> I'm a Full Stack Developer using NextJs and NestJs as weapons.</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&duration=2000&pause=1000&background=151515&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Javascript+Developer;ReactJs+Developer;NodeJs+Developer;Critical+Problem+Solver;" alt="React Typed Effect" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&duration=2000&pause=1000&background=151515&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Javascript+Developer;ReactJs+Developer;NodeJs+Developer;Critical+Problem+Solver;Mastering+Algorithms+&+Patterns;" alt="React Typed Effect" />
 </div>
 
 <br/>
