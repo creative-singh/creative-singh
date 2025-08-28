@@ -32,7 +32,7 @@ Image Removed
   - Master AWS Cloud.
   - Master System Design.
   - Start Contributing to open-source projects.
-  - Solve all problems from Neetcode 150 (146/150 Done).
+  - Solve all problems from Neetcode 150 (✅ Done).
 - ⚡ Fun fact: I'm bilingual in programming languages, I speak both C# and JavaScript, and my code understands me in both dialects!
   <br/>
 
