@@ -29,10 +29,11 @@ Image Removed
 - 🌱 I'm now delving deep into the AWS Cloud Operations.
 - 🧑‍💻 🧑‍💻 Strongly believes in Teamwork.
 - 🔗 2025 Goals:
-  - Master AWS Cloud.
-  - Master System Design.
-  - Start Contributing to open-source projects.
-  - Solve all problems from Neetcode 150 (✅ Done).
+  - ☁️ **AWS Cloud Mastery** → Earn an AWS certification and build at least 2 real-world projects using AWS services.
+  - 🏗 **System Design Expertise** → Study core patterns and document 10+ system design case studies; apply concepts in work/projects.
+  - 🌍 **Open Source Contribution** → Make 5+ meaningful contributions (PRs, bug fixes, or features) to established open-source projects.
+  - 💻 **Personal Portfolio Website** → Launch a new portfolio site with a polished design, blog section, and project showcases.
+  - 🧩 **NeetCode 150 DSA Challenge** → ✅ Completed – now maintain momentum by tackling LeetCode Weekly Contests or 50+ Hard problems in 2025.
 - ⚡ Fun fact: I'm bilingual in programming languages, I speak both C# and JavaScript, and my code understands me in both dialects!
   <br/>
 
