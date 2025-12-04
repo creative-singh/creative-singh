@@ -55,7 +55,7 @@ Image Removed
 
 <h3 align="center"> 🚀 Streak & Contributions 🚀</h3>
 <p align="center"> 
-  <img alt="Bhavleen's github streaks and contribution" src="https://github-readme-streak-stats.herokuapp.com/?user=creative-singh&theme=dark&hide_border=false" /> 
+  <img alt="Bhavleen's github streaks and contribution" src="https://github-readme-streak-stats.herokuapp.com/?user=creative-singh&theme=radical&hide_border=false" /> 
 </p>
 
 ---
