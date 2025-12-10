@@ -1,123 +1,182 @@
-<h1 align="center">Hi, I'm Bhavleen Singh Manaktala</h1>
-<!-- 
-Image Removed
-<h1 style="display: flex;align-items: center;justify-content: center;">Hi, I'm Bhavleen Singh Manaktala <img src="./logo.svg" alt="cs logo" height="50px" style="height: revert-layer;padding-left: 10px;"> </h1>
--->
-
-<h3 align="center">🌟✨  A.K.A Creative Singh  ✨🌟 </h3>
-
-<h3 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24"> I'm a Full Stack Developer using NextJs and NestJs as weapons.</h3>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&duration=2000&pause=1000&background=151515&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Javascript+Developer;ReactJs+Developer;NodeJs+Developer;Critical+Problem+Solver;Mastering+Algorithms+and+Patterns;" alt="React Typed Effect" />
-</div>
-
-<br/>
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=creative-singh&layout=compact&hide=html&theme=radical" alt=javascript_spoof /> 
-</p>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SkyCaptainess&style=flat-square&color=blue" alt="Profile Views" width="150" />
-</div>
-
----
-
-<p>⭐️ <u><b>Know me more</b></u> ⭐️</p>
-
-- 🔭 I'm currently learning Cloud Development & System Design.
-- 🌱 I'm now delving deep into the AWS Cloud Operations.
-- 🧑‍💻 🧑‍💻 Strongly believes in Teamwork.
-- 🔗 2025 Goals:
-  - ☁️ **AWS Cloud Mastery** → Earn an AWS certification and build at least 2 real-world projects using AWS services.
-  - 🏗 **System Design Expertise** → Study core patterns and document 10+ system design case studies; apply concepts in work/projects.
-  - 🌍 **Open Source Contribution** → Make 5+ meaningful contributions (PRs, bug fixes, or features) to established open-source projects.
-  - 💻 **Personal Portfolio Website** → ✅ Completed - Launch a new portfolio site with a polished design, blog section, and project showcases.
-  - 🧩 **NeetCode 150 DSA Challenge** → ✅ Completed – now maintain momentum by tackling LeetCode Weekly Contests or 50+ Hard problems in 2025.
-- ⚡ Fun fact: I'm bilingual in programming languages, I speak both C# and JavaScript, and my code understands me in both dialects!
-  <br/>
-
----
-
-<h3 align="center">📮 Connect With Me  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="75" /></h3>
+<!-- Hero Section -->
+<h1 align="center">Hey, I'm Bhavleen Singh Manaktala</h1>
+<h3 align="center">✨ a.k.a. <strong>Creative Singh</strong> ✨</h3>
 
 <p align="center">
-  <a href="https://creative-singh.netlify.app/" target="blank"><img src="https://img.icons8.com/ios/50/ffa500/circled-c.png" alt="portfolio" height="40" width="40" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/creative-singh/" target="blank"><img src="./linkedin.svg" alt="linkedin profile link" height="40" width="40" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:singhbhavleen3@gmail.com" target="blank"><img src="./gmail.svg" alt="gmail profile link" height="40" width="40" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/creative.singh_/" target="blank"><img src="./instagram.svg" alt="instagram profile link" height="40" width="40" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/bhavleensm/" target="blank"><img src="./facebook.svg" alt="facebook profile link" height="40" width="40" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/creative-singh" target="blank"><img src="./github.svg" alt="github profile link" height="40" width="40" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/bhavleen_singh_fsd/" target="blank"><img src="./leetcode.png" alt="leetcode profile link" height="40" width="40" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <em>Full Stack Developer · Next.js & NestJS · System Design & Cloud Enthusiast</em>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&duration=2000&pause=1000&background=151515&center=true&vCenter=true&random=false&width=500&lines=Full+Stack+Developer;JavaScript+%26+TypeScript+Developer;React+%26+Next.js+Enthusiast;Node.js+%26+NestJS+Backend;Critical+Problem+Solver;Mastering+Algorithms+%26+Patterns" alt="Typing intro" />
+</p>
+
+<p align="center">
+  <a href="https://creative-singh.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-creative--singh.netlify.app-orange?style=flat-square" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/creative-singh/">
+    <img src="https://img.shields.io/badge/LinkedIn-@creative--singh-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:singhbhavleen3@gmail.com">
+    <img src="https://img.shields.io/badge/Email-singhbhavleen3%40gmail.com-red?style=flat-square&logo=gmail" alt="Email" />
+  </a>
+  <a href="https://leetcode.com/bhavleen_singh_fsd/">
+    <img src="https://img.shields.io/badge/LeetCode-bhavleen__singh__fsd-yellow?style=flat-square&logo=leetcode" alt="LeetCode" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=creative-singh&style=flat-square&color=blue" alt="Profile views" />
 </p>
 
 ---
 
-<h3 align="center"> 🚀 Streak & Contributions 🚀</h3>
-<p align="center"> 
-  <img alt="Bhavleen's github streaks and contribution" src="https://github-readme-streak-stats.herokuapp.com/?user=creative-singh&theme=radical&hide_border=false" /> 
+## ⭐ About Me
+
+- 🧑‍💻 Full Stack Developer working mainly with **Next.js**, **React**, **Node.js**, and **NestJS**.
+- ☁️ Exploring **AWS Cloud** & **Scalable System Design**.
+- 🧠 Big fan of **DSA**, **patterns**, and clean architecture.
+- 🤝 Strong believer in **teamwork, mentoring, and knowledge sharing**.
+- ⚡ Fun fact: I’m bilingual in programming – my code understands both **C#** and **JavaScript**.
+
+---
+
+## 🎯 2025 → 2026 Focus
+
+- ☁️ **Cloud & DevOps**
+  - Deep-dive into AWS services & cloud-native patterns.
+  - Build & deploy at least **2 production-grade apps** leveraging AWS.
+
+- 🏗 **System Design**
+  - Study core patterns and document **10+ system design case studies**.
+  - Apply concepts to real-world projects & architecture discussions.
+
+- 🌍 **Open Source**
+  - Make **5+ meaningful contributions** (PRs, bug fixes, features) to established projects.
+  - Gradually build & maintain my own **dev tools / libraries**.
+
+- 💻 **Personal Branding**
+  - ✅ New portfolio launched: **creative-singh.netlify.app**
+  - Improve GitHub profile, write blog posts, and showcase projects.
+
+- 🧩 **DSA & Problem Solving**
+  - ✅ Completed **NeetCode 150**
+  - Keep the momentum with **LeetCode Weekly Contests** and more **Hard** problems.
+
+---
+
+## 🚀 Tech Stack
+
+### 🧩 Core
+
+<p align="left">
+  <img alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />
+  <img alt="TypeScript" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" />
+  <img alt="React" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" />
+  <img alt="Next.js" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/nextjs/nextjs.png" />
+  <img alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" />
+  <img alt="NestJS" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/nestjs/nestjs.png" />
+</p>
+
+### 🗄️ Backend & Databases
+
+<p align="left">
+  <img alt="MongoDB" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" />
+  <img alt="PostgreSQL" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png" />
+  <img alt="MySQL" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
+</p>
+
+### 🎨 Frontend & Styling
+
+<p align="left">
+  <img alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />
+  <img alt="CSS3" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" />
+  <img alt="Sass" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/sass/sass.png" />
+  <img alt="Bootstrap" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png" />
+</p>
+
+### 🛠 Tools & Others
+
+<p align="left">
+  <img alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
+  <img alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />
+  <img alt="VS Code" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />
+  <img alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/terminal/terminal.png" />
+  <img alt=".NET" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/dotnet/dotnet.png" />
+  <img alt="Python" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
+  <img alt="Docker" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" />
 </p>
 
 ---
 
-<h3 align="center">🏅 Statistics 🏅</h3>
-<p align="center"> 
-  <img alt="Bhavleen's github stats" src="https://github-readme-stats.vercel.app/api?username=creative-singh&show_icons=true&theme=radical" /> 
+## 🧩 DSA & LeetCode
+
+<p align="center">
+  <!-- Replace this with your own LeetInsight SVG endpoint when ready -->
+  <!-- Example placeholder: -->
+  <img src="https://leetcard.jacoblin.cool/bhavleen_singh_fsd?ext=heatmap" alt="LeetCode Stats" />
+</p>
+
+<p align="center">
+  🚀 Completed <strong>NeetCode 150</strong> and actively solving more problems & contests.
 </p>
 
 ---
 
-<h3 align="center">Languages And Tools</h3>
-<p>
-<div style="height:100px; width:100%; border:1px solid white; border-radius:5px;padding:10px">
+## 🏆 GitHub Stats & Streaks
 
-  <img align="left" alt="JavaScript" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="margin:10px; padding: 10px;" />
-
-  <img align="left" alt="React" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" style="margin:10px; padding: 10px;" />
-
-  <img align="left" alt="Redux" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/redux/redux-original.svg" style="margin:10px; padding: 10px;" />
-
-</div>
-
-<img align="left" alt="Node.js" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" style="margin:10px; padding: 10px;" />
-
-<img align="left" alt="MongoDB" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" style="margin:10px; padding: 10px;" />
-
-<img align="left" alt="Postgresql" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" style="margin:10px; padding: 10px;" />
-
-<img align="left" alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="margin:10px; padding: 10px;" />
-
-<img align="left" alt="SQL" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" style="margin:10px; padding: 10px;" />
-
-<img align="left" alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="margin:10px; padding: 10px;" />
-
-<img align="left" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/css3/css3-plain-wordmark.svg" style="margin:10px; padding: 10px;" />
-
-<img align="left" alt="Sass" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" style="margin:10px; padding: 10px;" />
-
-<img align="left" alt="Bootstrap" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" style="margin:10px; padding: 10px;" />
-
-<img align="left" alt="GitHub" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" style="margin:10px; padding: 10px;" />
-
-<img align="left" alt="Git" width=" 36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" style="margin:10px; padding: 10px;" />
-
-<img align="left" alt="Terminal" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" style="margin:10px; padding: 10px;" />
-
-<img align="left" alt="Microsoft .Net" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png" style="margin:10px; padding: 10px;" />
-
-<img align="left" alt="Python" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" style="margin:10px; padding: 10px;" />
-
-<img align="left" alt="MySQL" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mysql/mysql-original-wordmark.svg" style="margin:10px; padding: 10px;" />
-
-<img align="left" alt="Docker" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/docker/docker-plain-wordmark.svg" style="margin:10px; padding: 10px;" />
+<p align="center">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=creative-singh&layout=compact&hide=html&theme=radical" />
 </p>
 
+<p align="center">
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=creative-singh&theme=radical&hide_border=false" />
+</p>
 
+<p align="center">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=creative-singh&show_icons=true&theme=radical" />
+</p>
 
+---
 
+## 🔗 Connect With Me
 
+<p align="center">
+  <a href="https://creative-singh.netlify.app/" target="_blank">
+    <img src="https://img.icons8.com/ios/50/ffa500/circled-c.png" alt="portfolio" height="40" width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/creative-singh/" target="_blank">
+    <img src="./linkedin.svg" alt="LinkedIn" height="40" width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:singhbhavleen3@gmail.com" target="_blank">
+    <img src="./gmail.svg" alt="Gmail" height="40" width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/creative.singh_/" target="_blank">
+    <img src="./instagram.svg" alt="Instagram" height="40" width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.facebook.com/bhavleensm/" target="_blank">
+    <img src="./facebook.svg" alt="Facebook" height="40" width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/creative-singh" target="_blank">
+    <img src="./github.svg" alt="GitHub" height="40" width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/bhavleen_singh_fsd/" target="_blank">
+    <img src="./leetcode.png" alt="LeetCode" height="40" width="40" />
+  </a>
+</p>
 
+---
 
+<p align="center">
+  <img src="https://imgur.com/rilHVxA.png" alt="Footer art" />
+</p>
 
-
-<img src="https://imgur.com/rilHVxA.png"/> 
+<p align="center">
+  <em>Thanks for stopping by. If you like what you see, let’s build something amazing together. 🚀</em>
+</p>
