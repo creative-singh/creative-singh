@@ -1,17 +1,15 @@
-<!-- Hero Section -->
-<h1 align="center">Hey, I'm Bhavleen Singh Manaktala</h1>
-<h3 align="center">✨ a.k.a. <strong>Creative Singh</strong> ✨</h3>
+<!-- Hero -->
+<h1 align="center">ਸਤਿ ਸ੍ਰੀ ਅਕਾਲ ਜੀ 🙏<br/>I'm <strong>Bhavleen Singh Manaktala</strong></h1>
+<h3 align="center">✨ A.K.A. <strong>Creative Singh</strong> ✨</h3>
+
+<h3 align="center">✨ Full Stack Developer • System Design & Cloud Learner • Finance Enthusiast ✨</h3>
 
 <p align="center">
-  <em>Full Stack Developer · Next.js & NestJS · System Design & Cloud Enthusiast</em>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&duration=2000&pause=1000&background=151515&center=true&vCenter=true&random=false&width=500&lines=Full+Stack+Developer;JavaScript+%26+TypeScript+Developer;React+%26+Next.js+Enthusiast;Node.js+%26+NestJS+Backend;Critical+Problem+Solver;Mastering+Algorithms+%26+Patterns;Building+Wealth+One+Line+at+a+Time" alt="Typing intro" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&duration=2000&pause=1000&background=151515&center=true&vCenter=true&random=false&width=500&lines=Full+Stack+Developer;JavaScript+%26+TypeScript+Developer;React+%26+Next.js+Enthusiast;Node.js+%26+NestJS+Backend;Critical+Problem+Solver;Mastering+Algorithms+%26+Patterns" alt="Typing intro" />
-</p>
-
-<p align="center">
-  <a href="https://creative-singh.netlify.app/">
+  <a href="https://bhavleen-singh.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-creative--singh.netlify.app-orange?style=flat-square" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/creative-singh/">
@@ -26,18 +24,19 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=creative-singh&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=creative-singh&style=flat-square&color=orange" />
 </p>
-
----
 
 ## ⭐ About Me
 
 - 🧑‍💻 Full Stack Developer working mainly with **Next.js**, **React**, **Node.js**, and **NestJS**.
-- ☁️ Exploring **AWS Cloud** & **Scalable System Design**.
+- 🚀 I love building systems that scale — clean, predictable, and elegant.
+- 🧠 Currently learning **Cloud Architecture**, **AWS Ops**, and **Deep System Design**.
 - 🧠 Big fan of **DSA**, **patterns**, and clean architecture.
 - 🤝 Strong believer in **teamwork, mentoring, and knowledge sharing**.
-- ⚡ Fun fact: I’m bilingual in programming – my code understands both **C#** and **JavaScript**.
+- 💰 **Personal finance is my second language**:  
+  SIPs, wealth compounding, risk management, behavioral finance — I live and breathe it.
+- 🇮🇳 Proud Punjabi — passion in heart, discipline in code.
 
 ---
 
@@ -62,8 +61,16 @@
 - 🧩 **DSA & Problem Solving**
   - ✅ Completed **NeetCode 150**
   - Keep the momentum with **LeetCode Weekly Contests** and more **Hard** problems.
+  
+- 💰 **Personal Finance Learning**
+  - Building frameworks for long-term investing  
+  - Studying economic cycles & behavioral models  
+  - Understanding risk, compounding, and high-conviction allocation  
+  - Using tech + finance together for smarter decision-making  
+  (If dev is my profession, finance is my meditation.)
 
 ---
+
 
 ## 🚀 Tech Stack
 
@@ -109,11 +116,11 @@
 
 ---
 
+
 ## 🧩 DSA & LeetCode
 
 <p align="center">
-  <!-- Replace this with your own LeetInsight SVG endpoint when ready -->
-  <!-- Example placeholder: -->
+  <!-- Will Replace this with own LeetInsight SVG endpoint when ready -->
   <img src="https://leetcard.jacoblin.cool/bhavleen_singh_fsd?ext=heatmap" alt="LeetCode Stats" />
 </p>
 
@@ -142,7 +149,7 @@
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://creative-singh.netlify.app/" target="_blank">
+  <a href="https://bhavleen-singh.vercel.app/" target="_blank">
     <img src="https://img.icons8.com/ios/50/ffa500/circled-c.png" alt="portfolio" height="40" width="40" />
   </a>
   &nbsp;&nbsp;
@@ -179,4 +186,8 @@
 
 <p align="center">
   <em>Thanks for stopping by. If you like what you see, let’s build something amazing together. 🚀</em>
+</p>
+
+<p align="center">
+  <em>Rab Rakha. 🌟</em>
 </p>
