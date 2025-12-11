@@ -5,7 +5,7 @@
 <h3 align="center">✨ Full Stack Developer • System Design & Cloud Learner • Finance Enthusiast ✨</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&duration=2000&pause=1000&background=151515&center=true&vCenter=true&random=false&width=500&lines=Full+Stack+Developer;JavaScript+%26+TypeScript+Developer;React+%26+Next.js+Enthusiast;Node.js+%26+NestJS+Backend;Critical+Problem+Solver;Mastering+Algorithms+%26+Patterns;Building+Wealth+One+Line+at+a+Time" alt="Typing intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&duration=2000&pause=1000&center=true&vCenter=true&random=false&width=500&lines=Full+Stack+Developer;JavaScript+%26+TypeScript+Developer;React+%26+Next.js+Enthusiast;Node.js+%26+NestJS+Backend;Critical+Problem+Solver;Mastering+Algorithms+%26+Patterns;Building+Wealth+One+Line+at+a+Time" alt="Typing intro" />
 </p>
 
 <p align="center">
